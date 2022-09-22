@@ -2,4 +2,4 @@
 
 <p>A simplest clone of instagram app</p>
 
-<p><img alt="A Screen Record" src="ScreenRec.gif" height="550" /></p>
+<p><img alt="A Screen Record" src="images/ScreenRec.gif" height="550" /></p>
